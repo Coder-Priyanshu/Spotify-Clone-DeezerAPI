@@ -2,10 +2,18 @@
 <h2>Spotify Clone built on Bootstrap5&DeezersAPI 🫐 </h2>
 </p>
 
-This project was originally started as a Team Project [here](https://github.com/Kajal-lathiya/epicode-u2-Spotify-Clone-Deezer-API).
 
+
+
+
+### Demo of this project is [here](https://talmkg.github.io/Spotify-Clone-DeezersAPIandB5/). 🦝
+
+
+
+This project was originally started as a Team Project [here](https://github.com/Kajal-lathiya/epicode-u2-Spotify-Clone-Deezer-API).
+<hr>
 <p align="center">
-<h3>Our team:</h3>
+<h3>Our team back then:</h3>
 <ul>
  <li>Agatha O.</li>
  <li>Tim A.</li>
@@ -13,6 +21,11 @@ This project was originally started as a Team Project [here](https://github.com/
 </ul>
 </p>
 <hr>
+<p align="center">
+As soon as we didn't have time to reach "the perfection", I decided to try to finish this project alone here.
+</p>
+<hr>
+
 <p align="center">
 Home page:
 <img src="https://i.imgur.com/b7UTTkt.png"/>
