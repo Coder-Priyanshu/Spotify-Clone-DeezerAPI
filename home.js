@@ -37,7 +37,7 @@ const fillPageAlbums = function (listOfSearchAlbums) {
           <div class="col-md-8 d-flex align-items-center">
           <div class="card-body d-flex align-items-center justify-content-between">
               <p class="card-title text-truncate">${listOfSearchAlbums.data[i].album.title}</p>
-              <a href="/Album/album.html?songId=${listOfSearchAlbums.data[i].album.id}"><i class="fa-solid fa-circle-play fa-2xl"></i></a>
+              <a href="./Album/album.html?songId=${listOfSearchAlbums.data[i].album.id}"><i class="fa-solid fa-circle-play fa-2xl"></i></a>
           </div>
         </div>
     </div>
@@ -120,7 +120,7 @@ const fillPageArtists = function ([
   //useless loop
   midsidecards.innerHTML = ` <div class="col">
     <div class="card" id="darker">
-      <a href="/Artist/artist.html?songId=${listOfSearchArtists.id}"><img
+      <a href="./Artist/artist.html?songId=${listOfSearchArtists.id}"><img
         src="${listOfSearchArtists.picture_xl}"
         class="img-fluid p-2"
         id="rounded"
@@ -141,7 +141,7 @@ const fillPageArtists = function ([
     `;
   midsidecards.innerHTML += ` <div class="col">
     <div class="card" id="darker">
-    <a href="/Artist/artist.html?songId=${listOfSearchArtists2.id}"><img
+    <a href="./Artist/artist.html?songId=${listOfSearchArtists2.id}"><img
         src="${listOfSearchArtists2.picture_xl}"
         class="img-fluid p-2"
         id="rounded"
@@ -162,7 +162,7 @@ const fillPageArtists = function ([
     `;
   midsidecards.innerHTML += ` <div class="col">
     <div class="card" id="darker">
-    <a href="/Artist/artist.html?songId=${listOfSearchArtists3.id}"><img
+    <a href="./Artist/artist.html?songId=${listOfSearchArtists3.id}"><img
         src="${listOfSearchArtists3.picture_xl}"
         class="img-fluid p-2"
         id="rounded"
@@ -183,7 +183,7 @@ const fillPageArtists = function ([
     `;
   midsidecards.innerHTML += ` <div class="col">
     <div class="card" id="darker">
-    <a href="/Artist/artist.html?songId=${listOfSearchArtists4.id}"><img
+    <a href="./Artist/artist.html?songId=${listOfSearchArtists4.id}"><img
         src="${listOfSearchArtists4.picture_xl}"
         class="img-fluid p-2"
         id="rounded"
@@ -204,7 +204,7 @@ const fillPageArtists = function ([
     `;
   midsidecards.innerHTML += ` <div class="col">
     <div class="card" id="darker">
-    <a href="/Artist/artist.html?songId=${listOfSearchArtists5.id}"><img
+    <a href="./Artist/artist.html?songId=${listOfSearchArtists5.id}"><img
         src="${listOfSearchArtists5.picture_xl}"
         class="img-fluid p-2"
         id="rounded"
@@ -225,7 +225,7 @@ const fillPageArtists = function ([
     `;
   midsidecards.innerHTML += ` <div class="col">
     <div class="card" id="darker">
-    <a href="/Artist/artist.html?songId=${listOfSearchArtists6.id}"><img
+    <a href="./Artist/artist.html?songId=${listOfSearchArtists6.id}"><img
         src="${listOfSearchArtists6.picture_xl}"
         class="img-fluid p-2"
         id="rounded"
@@ -246,7 +246,7 @@ const fillPageArtists = function ([
     `;
   midsidecards.innerHTML += ` <div class="col">
     <div class="card" id="darker">
-    <a href="/Artist/artist.html?songId=${listOfSearchArtists7.id}"><img
+    <a href="./Artist/artist.html?songId=${listOfSearchArtists7.id}"><img
         src="${listOfSearchArtists7.picture_xl}"
         class="img-fluid p-2"
         id="rounded"
@@ -267,7 +267,7 @@ const fillPageArtists = function ([
     `;
   midsidecards.innerHTML += ` <div class="col">
     <div class="card" id="darker">
-    <a href="/Artist/artist.html?songId=${listOfSearchArtists8.id}"><img
+    <a href="./Artist/artist.html?songId=${listOfSearchArtists8.id}"><img
         src="${listOfSearchArtists8.cover_xl}"
         class="img-fluid p-2"
         id="rounded"
