@@ -26,10 +26,7 @@ This project was originally started as a Team Project [here](https://github.com/
 </ul>
 </p>
 <hr>
-<p align="center">
-As soon as we didn't have time to reach "the perfection", I decided to try to finish this project alone here.
-</p>
-<hr>
+
 
 <p align="center">
 Home page:
