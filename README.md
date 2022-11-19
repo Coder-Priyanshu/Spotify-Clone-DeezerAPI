@@ -2,6 +2,11 @@
 <h2>Spotify Clone built on Bootstrap5&DeezersAPI 🫐 </h2>
 </p>
 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap" />
+  </a>
+
+
 
 
 
