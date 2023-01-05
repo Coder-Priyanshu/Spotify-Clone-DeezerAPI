@@ -11,9 +11,6 @@
 
 
 
-### Demo of this project is [here](https://talmkg.github.io/Spotify-Clone-DeezersAPIandB5/). 🦝
-
-
 
 This project was originally started as a Team Project [here](https://github.com/Kajal-lathiya/epicode-u2-Spotify-Clone-Deezer-API).
 <hr>
