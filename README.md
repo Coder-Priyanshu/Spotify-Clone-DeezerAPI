@@ -12,7 +12,19 @@
 
 
 
-This project was originally started as a Team Project [here](https://github.com/Kajal-lathiya/epicode-u2-Spotify-Clone-Deezer-API).
+<li>
+  
+  This project was originally started as a Team Project [here](https://github.com/Kajal-lathiya/epicode-u2-Spotify-Clone-Deezer-API).
+  
+</li> 
+
+
+<li>
+  
+  React-Redux migration is [here](https://github.com/talmkg/spotify-redux) (Migration is not finished 100%, but all the main content is transferred and the songs are playable).
+
+</li>
+
 <hr>
 <p align="center">
 <h3>Our team back then:</h3>
